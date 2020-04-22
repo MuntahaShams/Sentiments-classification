@@ -8,9 +8,7 @@ Sentiment Classification &amp; How To "Frame Problems" for a Neural Network
 - and train/test splits
 
 ### Where to Get Help if You Need it
-- Leverage the recommended Course Reading Material - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) (Check inside your classroom for a discount code)
-- Shoot me a tweet @iamtrask
-
+- Leverage the recommended Course Reading Material - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) 
 
 ### Tutorial Outline:
 
@@ -26,7 +24,7 @@ Sentiment Classification &amp; How To "Frame Problems" for a Neural Network
 - [**PROJECT 2**: Creating the Input/Output Data](#project_2)
 
 
-- Putting it all together in a Neural Network (video only - nothing in notebook)
+- Putting it all together in a Neural Network 
 - [**PROJECT 3**: Building our Neural Network](#project_3)
 
 
