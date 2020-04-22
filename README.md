@@ -15,20 +15,20 @@ Sentiment Classification &amp; How To "Frame Problems" for a Neural Network
 - Intro: The Importance of "Framing a Problem" (this lesson)
 
 
-    [Curate a Dataset](#lesson_1)
-    [Developing a "Predictive Theory"](#lesson_2)
+      [Curate a Dataset](#lesson_1)
+       [Developing a "Predictive Theory"](#lesson_2)
 - [**PROJECT 1**: Quick Theory Validation](#project_1)
 
 
-    [Transforming Text to Numbers](#lesson_3)
+       [Transforming Text to Numbers](#lesson_3)
 - [**PROJECT 2**: Creating the Input/Output Data](#project_2)
 
 
-    Putting it all together in a Neural Network 
+       Putting it all together in a Neural Network 
 - [**PROJECT 3**: Building our Neural Network](#project_3)
 
 
-    [Understanding Neural Noise](#lesson_4)
+       [Understanding Neural Noise](#lesson_4)
 - [**PROJECT 4**: Making Learning Faster by Reducing Noise](#project_4)
 
 
@@ -40,7 +40,7 @@ Sentiment Classification &amp; How To "Frame Problems" for a Neural Network
 - [**PROJECT 6**: Reducing Noise by Strategically Reducing the Vocabulary](#project_6)
 
 
- [Analysis: What's going on in the weights?](#lesson_7)
+       [Analysis: What's going on in the weights?](#lesson_7)
  
  
- NOTE: unzip file reviews.ar into reviews.txt before run code
+ NOTE: unzip file reviews.rar into reviews.txt before run code
